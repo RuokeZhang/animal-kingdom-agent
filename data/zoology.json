@@ -1,0 +1,61 @@
+```json
+{
+  "species": [
+    {
+      "commonName": "African Elephant",
+      "scientificName": "Loxodonta africana",
+      "taxonomy": ["Animalia", "Chordata", "Mammalia", "Proboscidea", "Elephantidae"],
+      "distribution": "Sub-Saharan Africa savannas, forests, and deserts",
+      "diet": "Herbivorous; grasses, leaves, bark, and fruit",
+      "behavior": "Highly social; matriarchal herds; complex communication including infrasound",
+      "conservationStatus": "Vulnerable (IUCN)",
+      "source": "IUCN Red List; African Elephant Specialist Group",
+      "summary": "Largest land mammal; keystone species influencing vegetation structure."
+    },
+    {
+      "commonName": "Snow Leopard",
+      "scientificName": "Panthera uncia",
+      "taxonomy": ["Animalia", "Chordata", "Mammalia", "Carnivora", "Felidae"],
+      "distribution": "Mountain ranges of Central and South Asia",
+      "diet": "Carnivorous; blue sheep, ibex, marmots",
+      "behavior": "Solitary, crepuscular; uses rocky terrain for ambush hunting",
+      "conservationStatus": "Vulnerable (IUCN)",
+      "source": "Snow Leopard Trust; IUCN Red List",
+      "summary": "Elusive alpine big cat adapted to cold, high-elevation habitats."
+    },
+    {
+      "commonName": "Emperor Penguin",
+      "scientificName": "Aptenodytes forsteri",
+      "taxonomy": ["Animalia", "Chordata", "Aves", "Sphenisciformes", "Spheniscidae"],
+      "distribution": "Antarctic pack ice and surrounding waters",
+      "diet": "Piscivorous; fish, squid, krill",
+      "behavior": "Breeds during Antarctic winter; males incubate eggs on their feet under brood pouch",
+      "conservationStatus": "Near Threatened (IUCN)",
+      "source": "British Antarctic Survey; IUCN Red List",
+      "summary": "Largest penguin species; extreme cold adaptations and cooperative huddling."
+    },
+    {
+      "commonName": "Green Sea Turtle",
+      "scientificName": "Chelonia mydas",
+      "taxonomy": ["Animalia", "Chordata", "Reptilia", "Testudines", "Cheloniidae"],
+      "distribution": "Tropical and subtropical seas worldwide; nests on sandy beaches",
+      "diet": "Juveniles omnivorous; adults primarily herbivorous on seagrasses and algae",
+      "behavior": "Long-distance migrations between feeding grounds and nesting beaches",
+      "conservationStatus": "Endangered (IUCN)",
+      "source": "NOAA Fisheries; IUCN Marine Turtle Specialist Group",
+      "summary": "Marine turtle critical for seagrass meadow health and coastal ecosystems."
+    },
+    {
+      "commonName": "Red-crowned Crane",
+      "scientificName": "Grus japonensis",
+      "taxonomy": ["Animalia", "Chordata", "Aves", "Gruiformes", "Gruidae"],
+      "distribution": "East Asia; wetlands in Japan, China, Korea, and Russia",
+      "diet": "Omnivorous; aquatic invertebrates, fish, plants, grains",
+      "behavior": "Known for elaborate courtship dances; pairs often lifelong",
+      "conservationStatus": "Endangered (IUCN)",
+      "source": "International Crane Foundation; IUCN Red List",
+      "summary": "Symbolic crane species reliant on wetland conservation and flyway protection."
+    }
+  ]
+}
+```
